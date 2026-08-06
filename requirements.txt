@@ -1,0 +1,9 @@
+ipykernel
+kaggle
+numpy
+pandas
+matplotlib
+seaborn
+tensorflow
+opencv-python
+ultralytics
